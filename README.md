@@ -1,1 +1,1 @@
-## Prediqt V2 
+## Prediction Market in Digiworlds 
